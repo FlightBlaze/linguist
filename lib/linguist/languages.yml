@@ -2698,6 +2698,16 @@ LookML:
   - ".view.lkml"
   tm_scope: source.yaml
   language_id: 211
+Loli:
+  type: programming
+  color: "#43BDC1"
+  extensions:
+  - ".li"
+  - ".loli"
+  interpreters:
+  - loli
+  ace_mode: text
+  language_id: 18011901
 LoomScript:
   type: programming
   extensions:
@@ -2774,6 +2784,17 @@ MAXScript:
   tm_scope: source.maxscript
   ace_mode: text
   language_id: 217
+MuffinScript:
+  type: programming
+  color: "#4AD5AA"
+  extensions:
+  - ".m"
+  - ".mprofile"
+  - ".muffin"
+  interpreters:
+  - MuffinScript
+  ace_mode: text
+  language_id: 18011902
 MQL4:
   type: programming
   color: "#62A8D6"
